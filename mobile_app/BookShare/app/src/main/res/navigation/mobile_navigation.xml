@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.cambrian.bookshare.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+        <action
+            android:id="@+id/action_nav_home_to_addNewBookDialogFragment"
+            app:destination="@id/nav_add_new_book" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.cambrian.bookshare.ui.home.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.cambrian.bookshare.ui.gallery.GalleryFragment"
+        android:label="@string/menu_my_books"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.cambrian.bookshare.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_wishlist"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.cambrian.bookshare.ui.user.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_nav_login_to_nav_home"
+            app:destination="@id/nav_home" />
+        <action
+            android:id="@+id/action_nav_login_to_nav_signup"
+            app:destination="@id/nav_signup" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_signup"
+        android:name="com.cambrian.bookshare.ui.user.SignUpFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_signup" >
+        <action
+            android:id="@+id/action_nav_signup_to_nav_login"
+            app:destination="@id/nav_login" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_add_new_book"
+        android:name="com.cambrian.bookshare.ui.home.AddNewBookDialogFragment"
+        android:label="fragment_add_new_book"
+        tools:layout="@layout/fragment_add_new_book" >
+        <action
+            android:id="@+id/action_addNewBookDialogFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.cambrian.bookshare.ui.user.ProfileFragment"
+        android:label="ProfileFragment" />
+    <fragment
+        android:id="@+id/nav_user_update"
+        android:name="com.cambrian.bookshare.ui.user.UpdateFragment"
+        android:label="fragment_upadate_user"
+        tools:layout="@layout/fragment_upadate_user" />
+</navigation>
