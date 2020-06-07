@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_new_book.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_add_new_book.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_list_item.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\book_list_item.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_signup.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_signup.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signup.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_circle.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_circle.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_books.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_books.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookhome.jpg.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable\\bookhome.jpg"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_wish_book.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wish_book.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookhome2.jpg.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable\\bookhome2.jpg"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_locate.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_locate.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_profile.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_wishlist.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wishlist.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_name.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_name.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_save.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_books.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_books.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_locate.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_locate.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_wishlist.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookstore.jpg.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable\\bookstore.jpg"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_profile.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_circle.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upadate_user.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\layout\\fragment_upadate_user.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signup.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_name.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_wish_book.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_wish_book.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cambrian.bookshare"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:8:5-28:19
+15        android:allowBackup="true"
+15-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:11:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:14:9-69
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:16:9-40
+25        android:usesCleartextTraffic="true" >
+25-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:15:9-44
+26        <activity
+26-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:17:9-26:20
+27            android:name="com.cambrian.bookshare.MainActivity"
+27-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:18:13-41
+28            android:label="@string/app_name"
+28-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:19:13-45
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:20:13-56
+30            <intent-filter>
+30-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:22:17-69
+31-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:24:17-77
+33-->D:\Capstone to commit\V1\Gihan\BookShare\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <provider
+37-->[com.squareup.picasso:picasso:2.71828] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\c5a76f06c387bd4853ee77210fda4bf3\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+38            android:name="com.squareup.picasso.PicassoProvider"
+38-->[com.squareup.picasso:picasso:2.71828] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\c5a76f06c387bd4853ee77210fda4bf3\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+39            android:authorities="com.cambrian.bookshare.com.squareup.picasso"
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\c5a76f06c387bd4853ee77210fda4bf3\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+40            android:exported="false" />
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\c5a76f06c387bd4853ee77210fda4bf3\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+41        <provider
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+42            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+43            android:authorities="com.cambrian.bookshare.lifecycle-process"
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+44            android:exported="false"
+44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+45            android:multiprocess="true" />
+45-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gihan\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+46    </application>
+47
+48</manifest>

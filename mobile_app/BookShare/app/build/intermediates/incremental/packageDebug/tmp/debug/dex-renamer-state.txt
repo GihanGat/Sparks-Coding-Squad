@@ -1,0 +1,4 @@
+#Sat Jun 06 22:45:05 EDT 2020
+base.0=D\:\\Capstone to commit\\V1\\Gihan\\BookShare\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
